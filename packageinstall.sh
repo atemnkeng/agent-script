@@ -1,6 +1,6 @@
 
 #!/bin/bash
 
-yum install samba docker ansible -y
+yum install curl samba docker ansible -y
 
 exit 0
